@@ -1,6 +1,11 @@
 {
   "name": "krawiec101/cs-api-bundle",
   "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "Łukasz Krawczyk"
+    }
+  ],
   "require": {
     "symfony/http-kernel": "^4.4|^5.0"
   },
