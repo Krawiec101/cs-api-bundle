@@ -1,0 +1,8 @@
+/vendor/*
+.idea/
+.phpunit.result.cache
+composer.lock
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
