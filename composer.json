@@ -8,5 +8,6 @@
     "psr-4": {
       "CsApiBundle\\": "src/"
     }
-  }
+  },
+  "minimum-stability":  "dev"
 }
