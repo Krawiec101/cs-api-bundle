@@ -1,0 +1,10 @@
+api1:
+    path:     /api/posts1/{page}
+    defaults:
+        _controller: 'ApiController'
+        page: 1
+        postsPerPage: 10
+        methods:    GET|HEAD
+    requirements:
+        page: '\d+'
+        postsPerPage: '\d+'
